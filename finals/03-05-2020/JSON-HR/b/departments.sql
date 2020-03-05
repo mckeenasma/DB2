@@ -1,0 +1,1 @@
+select row_to_json(departments) from asma_03032020.departments;

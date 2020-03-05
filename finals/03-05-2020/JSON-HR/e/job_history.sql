@@ -1,0 +1,1 @@
+select row_to_json(job_history) from asma_03032020.job_history;

@@ -1,0 +1,1 @@
+select row_to_json(locations) from asma_03032020.locations;

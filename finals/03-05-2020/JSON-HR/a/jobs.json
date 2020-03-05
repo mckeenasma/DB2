@@ -1,0 +1,22 @@
+{
+    "jobs":[
+        {"job_id":"AD_VP","job_title":"Administration Vice President","min_salary":15000,"max_salary":30000},
+        {"job_id":"AD_ASST","job_title":"Administration Assistant","min_salary":3000,"max_salary":6000},
+        {"job_id":"FI_MGR","job_title":"Finance Manager","min_salary":8200,"max_salary":16000},
+        {"job_id":"FI_ACCOUNT","job_title":"Accountant","min_salary":4200,"max_salary":9000},
+        {"job_id":"AC_MGR","job_title":"Accounting Manager","min_salary":8200,"max_salary":16000},
+        {"job_id":"AC_ACCOUNT","job_title":"Public Accountant","min_salary":4200,"max_salary":9000},
+        {"job_id":"SA_MAN","job_title":"Sales Manager","min_salary":10000,"max_salary":20000},
+        {"job_id":"SA_REP","job_title":"Sales Representative","min_salary":6000,"max_salary":12000},
+        {"job_id":"PU_MAN","job_title":"Purchasing Manager","min_salary":8000,"max_salary":15000},
+        {"job_id":"PU_CLERK","job_title":"Purchasing Clerk","min_salary":2500,"max_salary":5500},
+        {"job_id":"ST_MAN","job_title":"Stock Manager","min_salary":5500,"max_salary":8500},
+        {"job_id":"ST_CLERK","job_title":"Stock Clerk","min_salary":2000,"max_salary":5000},
+        {"job_id":"SH_CLERK","job_title":"Shipping Clerk","min_salary":2500,"max_salary":5500},
+        {"job_id":"IT_PROG","job_title":"Programmer","min_salary":4000,"max_salary":10000},
+        {"job_id":"MK_MAN","job_title":"Marketing Manager","min_salary":9000,"max_salary":15000},
+        {"job_id":"MK_REP","job_title":"Marketing Representative","min_salary":4000,"max_salary":9000},
+        {"job_id":"HR_REP","job_title":"Human Resources Representative","min_salary":4000,"max_salary":9000},
+        {"job_id":"PR_REP","job_title":"Public Relations Representative","min_salary":4500,"max_salary":10500}
+    ]
+}

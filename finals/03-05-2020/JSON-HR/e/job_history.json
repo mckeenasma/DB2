@@ -1,0 +1,14 @@
+{
+    "job_history":[
+        {"employee_id":102,"start_date":"1993-01-01","end_date":"1998-01-01","job_id":"IT_PROG","department_id":60},
+        {"employee_id":101,"start_date":"1989-01-01","end_date":"1993-01-01","job_id":"AC_ACCOUNT","department_id":110},
+        {"employee_id":101,"start_date":"1993-01-01","end_date":"1997-01-01","job_id":"AC_MGR","department_id":110},
+        {"employee_id":201,"start_date":"1996-01-01","end_date":"1999-01-01","job_id":"MK_REP","department_id":20},
+        {"employee_id":114,"start_date":"1998-01-01","end_date":"1999-01-01","job_id":"ST_CLERK","department_id":50},
+        {"employee_id":122,"start_date":"1999-01-01","end_date":"1999-01-01","job_id":"ST_CLERK","department_id":50},
+        {"employee_id":200,"start_date":"1987-01-01","end_date":"1993-01-01","job_id":"AD_ASST","department_id":90},
+        {"employee_id":176,"start_date":"1998-01-01","end_date":"1998-01-01","job_id":"SA_REP","department_id":80},
+        {"employee_id":176,"start_date":"1999-01-01","end_date":"1999-01-01","job_id":"SA_MAN","department_id":80},
+        {"employee_id":200,"start_date":"1994-01-01","end_date":"1998-01-01","job_id":"AC_ACCOUNT","department_id":90}
+    ]
+}
